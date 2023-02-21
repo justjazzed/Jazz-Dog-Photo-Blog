@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Mukta', sans-serif;
+}
+body {
+    background-color: rgba(13, 200, 233, 0.886);
+    text-align: center;
+}
+    .section1{
+background-image: url(/img/pexels-gökhan-yetimova-14466346.jpg);
+    }
+
+    h1{
+        background-color: rgba(9, 47, 71, 0.902);
+        color: aliceblue;
+    }
